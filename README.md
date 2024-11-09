@@ -21,7 +21,7 @@ Welcome to the Amazon Sales Analysis project! This project dives into Amazon's 2
 **📂 Project Structure:**
 
 - **data/** - Contains raw and processed data files.
-- **Power BI File/** - Jupyter notebook with analysis code.
+- **Power BI File/** - A Power BI File that contains detailed analysis and dashboards.
 - **reports/** - Generated reports include:
   - Power BI file with detailed analysis and visualizations
   - PDF of the Power BI report for quick insights
