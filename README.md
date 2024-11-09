@@ -2,7 +2,7 @@
 
 **Project Overview:**
 
-Welcome to the Amazon Sales Analysis project! This project dives into Amazon's 2022 sales data, exploring key aspects like sales performance, order status breakdowns, product category trends, fulfillment methods, and geographic insights. The objective of this analysis is to uncover meaningful patterns that aid in identifying high-performing products, improving fulfillment processes, and enhancing strategic business decisions. This project was successfully completed as part of an internship program with InnoByte Services.
+Welcome to the Amazon Sales Analysis project! This project dives into Amazon's 2022 sales data, exploring key aspects like sales performance, order status breakdowns, product category trends, fulfillment methods, and geographic insights. The objective of this analysis is to uncover meaningful patterns that aid in identifying high-performing products, improving fulfillment processes, and enhancing strategic business decisions. This project was successfully completed as part of an internship program with ***InnoByte Services.***
 
 **Key Insights:**
 
@@ -21,7 +21,7 @@ Welcome to the Amazon Sales Analysis project! This project dives into Amazon's 2
 **📂 Project Structure:**
 
 - **data/** - Contains raw and processed data files.
-- **notebooks/** - Jupyter notebook with analysis code.
+- **Power BI File/** - Jupyter notebook with analysis code.
 - **reports/** - Generated reports include:
   - Power BI file with detailed analysis and visualizations
   - PDF of the Power BI report for quick insights
